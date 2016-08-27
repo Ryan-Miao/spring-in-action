@@ -1,3 +1,4 @@
 rootProject.name = 'spring-in-action'
 include 'quick-start'
+include 'bean-manage'
 
